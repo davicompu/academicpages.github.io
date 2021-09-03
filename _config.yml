@@ -11,7 +11,7 @@ title                    : "Eduardo (David) Villacis-Calderon"
 title_separator          : "-"
 name                     : &name "Eduardo (David) Villacis-Calderon"
 description              : &description "personal description"
-url                      : "http://66.42.87.20" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
