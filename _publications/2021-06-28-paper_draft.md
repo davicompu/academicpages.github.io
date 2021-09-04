@@ -1,0 +1,21 @@
+---
+title: "The moderating effect of technology overload on the ability of online learning to meet students’ basic psychological needs"
+collection: publications
+permalink: /publication/2021-06-28-paper
+excerpt: 'We extend a theoretical framework for telecommuting to examine online learning. Additionally, we consider the role of technology overload and experience both as drivers and as moderators of students’ BPNs satisfaction and frustration in online learning. Our results provide valuable insights that can inform efforts to rebalance the deployment of ICTs to facilitate online educational experiences.'
+date: 2021-06-28
+venue: 'Information Technology & People'
+paperurl: 'https://doi.org/10.1108/ITP-03-2021-0225'
+citation: 'James, T.L., Zhang, J., Li, H., Ziegelmayer, J.L. and Villacis-Calderon, E.D. (2021), "The moderating effect of technology overload on the ability of online learning to meet students' basic psychological needs", <i>Information Technology & People </i>, Vol. ahead-of-print No. ahead- of-print.'
+---
+Abstract
+=====
+Purpose – Most students are considered digital natives and are presumably equipped to handle extensive technology use. However, online learning turns students into involuntary telecommuters when it is the primary modality. The prevailing trends of online learning, digital socialization, telehealth and other online services, combined with remote work has increased students’ reliance on information and communications technologies (ICTs) for all purposes, which may be overwhelming. We examine how technology overload strains the ability of online learning to meet students’ basic psychological needs (BPNs), which can decrease positive outcomes such as academic enjoyment and personal performance.
+Design/methodology/approach – Data was collected via an online survey of 542 university students and the proposed model was tested using partial least squares (PLS) regression.
+Findings – We find that technology overload can diminish the positive relationship between online learning intensity and BPNs satisfaction, which is alarming because BPNs satisfaction is critical to students’ positive experiences. Moreover, we find that technology overload and lack of technology experience can directly drive BPNs frustration, which decreases positive outcomes and increases academic anxiety.
+Originality/value – We extend a theoretical framework for telecommuting to examine online learning. Additionally, we consider the role of technology overload and experience both as drivers and as moderators of students’ BPNs satisfaction and frustration in online learning. Our results provide valuable insights that can inform efforts to rebalance the deployment of ICTs to facilitate online educational experiences.
+Keywords Online learning, Basic psychological needs theory (BPNT), Technology overload, Technology experience, Academic emotions, Personal performance
+
+[Download paper here](https://doi.org/10.1108/ITP-03-2021-0225)
+
+Recommended citation: James, T.L., Zhang, J., Li, H., Ziegelmayer, J.L. and Villacis-Calderon, E.D. (2021), "The moderating effect of technology overload on the ability of online learning to meet students' basic psychological needs", <i>Information Technology & People</i>, Vol. ahead-of-print No. ahead- of-print.
