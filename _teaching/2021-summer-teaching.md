@@ -1,5 +1,5 @@
 ---
-title: "BIT 4614 - Information Security (Summer Session I)"
+title: "BIT 4614 - Information Security"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-summer-teaching
@@ -8,13 +8,4 @@ date: 2021-06-01
 location: "Blacksburg, Virginia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course provides conceptual and practical exposure to managerial, technical, and operational aspects of information security. The course focuses on developing an understanding of information security concepts, policies, security controls, and best practices. In this course, students learn information security terminology, dynamics, and hands-on experience. The purpose of the course is to promote critical thinking for assessing the information security of organizations.
