@@ -12,16 +12,16 @@ Welcome to my personal website
 -------
 
 I am Eduardo (David) Villacis Calderon a Ph.D candidate from Business Information Technology at Virginia Tech. 
-<br/><br/>
-My research interests are:
-* Healthcare information technology
-* Privacy
-* Information security
-* Trust
-* Virtual communities.
-<br/>
+
+### My research interests are:
+ * Healthcare information technology
+ * Privacy
+ * Information security
+ * Trust
+ * Virtual communities.
+
 ### Skills
 * C, C++, C#, Java, JavaScript, MATLAB, MicroStrategy, PHP, Python, R, Ruby, SAS, Snort, SQL, Tableau.
-<br/>
+
 ### Research methods
 * Survey, secondary data analysis, qualitative analysis, and theory building.
