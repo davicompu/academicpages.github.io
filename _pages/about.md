@@ -19,11 +19,9 @@ My research interests are:
 * Information security
 * Trust
 * Virtual communities.
-<br/><br/>
+<br/>
 Skills
 * C, C++, C#, Java, JavaScript, MATLAB, MicroStrategy, PHP, Python, R, Ruby, SAS, Snort, SQL, Tableau.
-<br/><br/>
+<br/>
 Research methods
-
-* Survey, secondary data analysis, qualitative analysis, and theory building (behavioral/experimental method track)
-
+* Survey, secondary data analysis, qualitative analysis, and theory building.

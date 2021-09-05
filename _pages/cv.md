@@ -43,7 +43,7 @@ Skills
 
 Research methods
 ======
-* Survey, secondary data analysis, qualitative analysis, and theory building (behavioral/experimental method track)
+* Survey, secondary data analysis, qualitative analysis, and theory building.
 
 Publications
 ======
