@@ -12,10 +12,10 @@ Welcome to my personal website
 -------
 
 I am Eduardo (David) Villacis Calderon a Ph.D candidate from Business Information Technology at Virginia Tech. 
-<br/>
+<br/><br/>
 My research interests are:
-* Online Health Communities
-* Social Media
-* Information Security
+* Healthcare information technology
 * Privacy
-* Text analytics
+* Information security
+* Trust
+* Virtual communities.

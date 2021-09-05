@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Computer Science, Universidad San Francisco de Quito - Cum Laude, 2016
+* M.S. in Business Administration with concentration in Business Analytics, Virginia Tech, 2017
+* Ph.D in Business Information Technology, Virginia Tech, 2022 (expected to graduate in May)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013-2014: Junior Software Developer
+  * CRIFA - SLONCORP
+  * Software engineer
+  * Technologies: MySQL, PHP, Apache, Linux, FreePBX.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2014: Finance IT Intern
+  * VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY - FINANCE IT
+  * Duties included: software development and automatic testing.
+  * Technologies: SQL Server, MongoDB, C#, SPA, Azure, Selenium.
+
+* 2015: Senior Software Developer
+  * CRIFA - SLONCORP
+  * Software engineer
+  * Technologies: MySQL, PHP, Apache, Linux, AWS.
+
+* 2016-2017: Finance IT Graduate Assistant
+  * VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY - FINANCE IT
+  * Duties included: software development and security analysis.
+  * Technologies: SQL Server, MongoDB, C#, Azure, Solarwinds, Microstrategy.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C, C++, C#, Java, JavaScript, MATLAB, MicroStrategy, PHP, Python, R, Ruby, SAS, Snort, SQL, Tableau.
+
+Research methods
+======
+Survey, secondary data analysis, qualitative analysis, and theory building (behavioral/experimental method track)
 
 Publications
 ======
@@ -56,4 +65,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Virginia Research Seminar Series. Technical assistant. March 2018.
+* Business Information Technology. Student’s representant at Graduate Students Assembly, 2017-2018, 2019-2020, 2020-2021.
+* Reviewed for Information Systems Journal, ICIS 2019, ICIS 2020, ICIS 2021, AMCIS 2021, CIST 2021.
