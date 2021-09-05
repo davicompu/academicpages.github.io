@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my personal website
 -------
 
-I am Eduardo (David) Villacis Calderon a Ph.D candidate from Business Information Technology at Virginia Tech. 
+I am Eduardo (David) Villacis Calderon a Ph.D candidate from Business Information Technology at Pamplin College of Business, Virginia Tech. 
 
 ### My research interests are:
  * Healthcare information technology
