@@ -20,8 +20,8 @@ My research interests are:
 * Trust
 * Virtual communities.
 <br/>
-Skills
+### Skills
 * C, C++, C#, Java, JavaScript, MATLAB, MicroStrategy, PHP, Python, R, Ruby, SAS, Snort, SQL, Tableau.
 <br/>
-Research methods
+### Research methods
 * Survey, secondary data analysis, qualitative analysis, and theory building.
