@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 Welcome to my personal website
-=======
+-------
 
-I am Eduardo (David) Villacis Calderon a Ph.D candidate from Business Information Technology at Virginia Tech. My research interests are:
+I am Eduardo (David) Villacis Calderon a Ph.D candidate from Business Information Technology at Virginia Tech. 
+<br/>
+My research interests are:
 * Online Health Communities
 * Social Media
 * Information Security
