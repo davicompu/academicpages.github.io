@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Eduardo (David) Villacis Calderon"
+title: "Welcome to my personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome to my personal website
--------
 
 I am Eduardo (David) Villacis Calderon a Ph.D candidate from Business Information Technology at Pamplin College of Business, Virginia Tech. 
 
