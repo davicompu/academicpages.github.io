@@ -1,5 +1,5 @@
 ---
-title: "BIT/CS/PCSI 2164"
+title: "BIT/CS/PCSI 2164 - Foundations of Security Environments"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
