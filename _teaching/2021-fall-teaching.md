@@ -2,7 +2,7 @@
 title: "BIT/CS/PCSI 2164 - Foundations of Security Environments"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2022-fall-teaching
+permalink: /teaching/2021-fall-teaching
 venue: "Virginia Tech, Business Information Technology"
 date: 2021-08-24
 location: "Blacksburg, Virginia"
