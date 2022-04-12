@@ -1,5 +1,5 @@
 ---
-title: "BIT/CS/PCSI 5424 - Advanced Business Information Visualization and Analytics"
+title: "BIT 5424 - Advanced Business Information Visualization and Analytics"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2022-spring-teaching
