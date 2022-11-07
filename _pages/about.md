@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Eduardo (David) Villacis Calderon a Ph.D candidate from Business Information Technology at Pamplin College of Business, Virginia Tech. 
+I am Eduardo (David) Villacis Calderon an Assistant Professor of Accounting and Information Systems at the University of Texas at El Paso. 
 
 ### My research interests are:
  * Healthcare information technology

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Eduardo (David) Villacis Calderon"
   avatar           : "VillacisCalderon.jpg"
-  bio              : "Ph.D Candidate"
-  location         : "Blacksburg, VA. USA"
-  employer         : "Virginia Tech"
+  bio              : "Assistant Professor"
+  location         : "El Paso, Texas. USA"
+  employer         : "UTEP"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ITo-AZQAAAAJ&hl=en"
-  email            :  "villacis@vt.edu"
+  email            :  "edvillacisc@utep.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
