@@ -1,10 +1,10 @@
 ---
-title: "CIS 3330 – Analytic Programming Tools (Spring 2023)"
+title: "CIS 3330 – Analytic Programming Tools (Spring 2024)"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2023-spring-teaching-cis-3330
+permalink: /teaching/2024-spring-teaching-cis-3330
 venue: "The University of Texas at El Paso, Woody L. Hunt College of Business - Accounting and Information System"
-date: 2023-01-18
+date: 2024-01-16
 location: "El Paso, Texas"
 ---
 
@@ -18,7 +18,7 @@ hours developing, debugging, and improving code.
 
 Teaching Evaluations
 ======
-* Overall rating of the instructor:4.89/5.0
-* Overall rating of the course: 4.74/5.0
+* Overall rating of the instructor:4.65/5.0
+* Overall rating of the course: 4.70/5.0
 
 

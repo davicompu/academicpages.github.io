@@ -1,5 +1,5 @@
 ---
-title: "BIT 4614 - Information Security"
+title: "BIT 4614 - Information Security (Summer 2021)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-summer-teaching

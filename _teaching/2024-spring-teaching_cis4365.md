@@ -1,10 +1,10 @@
 ---
-title: "CIS 4365 – Database Management (Fall 2022)"
+title: "CIS 4365 – Database Management (Spring 2024)"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2022-fall-teaching
+permalink: /teaching/2024-spring-teaching-cis-4365
 venue: "The University of Texas at El Paso, Woody L. Hunt College of Business - Accounting and Information System"
-date: 2022-08-15
+date: 2024-01-16
 location: "El Paso, Texas"
 ---
 
@@ -15,5 +15,5 @@ manipulation commands.
 
 Teaching Evaluations
 ======
-* Overall rating of the instructor:4.9/5.0
-* Overall rating of the course: 4.76/5.0
+* Overall rating of the instructor:4.70/5.0
+* Overall rating of the course: 4.67/5.0
