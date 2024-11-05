@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in Computer Science, Universidad San Francisco de Quito - Cum Laude, 2016
 * M.S. in Business Administration with concentration in Business Analytics, Virginia Tech, 2017
-* Ph.D in Business Information Technology, Virginia Tech, 2022 (expected to graduate in May)
+* Ph.D in Business Information Technology, Virginia Tech, 2022
 
 Work experience
 ======
